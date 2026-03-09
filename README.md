@@ -18,6 +18,17 @@ Este projeto implementa um chatbot simples baseado no conteúdo de arquivos PDF.
 - Busca vetorial
 - Resposta baseada nos trechos recuperados
 
+## Interface do aplicativo
+
+### Tela inicial
+![Tela inicial](images/telaInicial.png)
+
+### Carregamento de arquivos
+![Carregamento de arquivos](images/carregamentoArquivos.png)
+
+### Respostas às perguntas
+![Respostas às perguntas](images/respostasPerguntas.png)
+
 ## Como executar
 ```bash
 pip install -r requirements.txt
